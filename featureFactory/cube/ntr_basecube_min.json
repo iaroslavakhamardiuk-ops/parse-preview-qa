@@ -1,0 +1,5 @@
+{
+  "cube": "basecube",
+  "dims": ["a","b","c"],
+  "measures": {"count": 0, "sum": 0}
+}
