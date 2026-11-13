@@ -107,3 +107,13 @@ INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_100','created_at')
 INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_101','created_at');
 INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_102','created_at');
 INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_103','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_104','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_105','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_106','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_107','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_108','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_109','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_110','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_111','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_112','created_at');
+INSERT INTO s.ntr_raid_temp_housekeeping_obj VALUES ('ntr_tbl_113','created_at');
